@@ -1,0 +1,14 @@
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.AssemblyReference.cache
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\SHUKKALI\source\repos\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
