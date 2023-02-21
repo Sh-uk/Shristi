@@ -1,0 +1,14 @@
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.csproj.AssemblyReference.cache
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.AssemblyInfoInputs.cache
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.AssemblyInfo.cs
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.csproj.CoreCompileInputs.cache
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\bin\Debug\netcoreapp3.1\Litwarelib.exe
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\bin\Debug\netcoreapp3.1\Litwarelib.deps.json
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\bin\Debug\netcoreapp3.1\Litwarelib.runtimeconfig.json
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\bin\Debug\netcoreapp3.1\Litwarelib.runtimeconfig.dev.json
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\bin\Debug\netcoreapp3.1\Litwarelib.dll
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\bin\Debug\netcoreapp3.1\Litwarelib.pdb
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.dll
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.pdb
+C:\Users\SHUKKALI\source\repos\Litwarelib\Litwarelib\obj\Debug\netcoreapp3.1\Litwarelib.genruntimeconfig.cache
