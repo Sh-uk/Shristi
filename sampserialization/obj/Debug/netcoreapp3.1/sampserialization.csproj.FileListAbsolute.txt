@@ -1,0 +1,14 @@
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.csproj.AssemblyReference.cache
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.AssemblyInfoInputs.cache
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.AssemblyInfo.cs
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.csproj.CoreCompileInputs.cache
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\bin\Debug\netcoreapp3.1\sampserialization.exe
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\bin\Debug\netcoreapp3.1\sampserialization.deps.json
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\bin\Debug\netcoreapp3.1\sampserialization.runtimeconfig.json
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\bin\Debug\netcoreapp3.1\sampserialization.runtimeconfig.dev.json
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\bin\Debug\netcoreapp3.1\sampserialization.dll
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\bin\Debug\netcoreapp3.1\sampserialization.pdb
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.dll
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.pdb
+C:\Users\SHUKKALI\source\repos\sampserialization\sampserialization\obj\Debug\netcoreapp3.1\sampserialization.genruntimeconfig.cache
